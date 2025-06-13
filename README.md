@@ -15,7 +15,7 @@ I am passionate about anything technology, coding, open source projects, and lov
 - 👯 I’m looking to collaborate on **Exciting Open source projects and innovative ideas**
 - 💬 Ask me about **Java, Python, and Kotlin**
 - 📫 How to reach me: [Email](mailto:kassim@kassimsheghembe.dev) | [LinkedIn](https://www.linkedin.com/in/sheghembekassim)
-- ⚡ Fun fact: I love the spell of petrol!
+- ⚡ Fun fact: I love the smell of petrol!
 
 ---
 
